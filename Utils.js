@@ -12,7 +12,7 @@ module.exports =  {
         let i 
         let j 
         let k
-        final = []
+        let final = []
         for(i=0;i<mat1.length;i++)
         {
             let temp = []
